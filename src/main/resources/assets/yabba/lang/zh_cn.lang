@@ -18,6 +18,7 @@ item.yabba.upgrade_pickup.name=收集物品升级
 
 item.yabba.painter.name=桶刷
 item.yabba.hammer.name=桶锤
+item.yabba.wrench.name=桶扳手
 
 lang.yabba.tier=等级: %s
 lang.yabba.tier.stone=石
@@ -49,6 +50,9 @@ tile.yabba.decorative_block.name=装饰方块
 tile.yabba.antibarrel.name=奇异桶
 tile.yabba.antibarrel.tooltip=储存大量不可堆叠物品
 tile.yabba.antibarrel.items=%d 个物品, %d/%d 种种类
+tile.yabba.antibarrel.items_only=%d 个物品
+tile.yabba.antibarrel.types=%d 种种类
+tile.yabba.antibarrel.pick_up=拾起
 tile.yabba.compound_item_barrel.name=储物桶复合
 
 tile.yabba.machine.name=机器
